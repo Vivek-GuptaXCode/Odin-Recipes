@@ -1,0 +1,17 @@
+*
+{
+    margin: 0 px;
+    padding: o px;
+}
+#header
+{
+    margin: auto;
+    text-align: center;
+    background-color: blueviolet;
+}
+#content
+{
+    background-image: url("/images/healthy-foods.webp");
+    background-attachment: scroll;
+    background-position: inherit;
+}
